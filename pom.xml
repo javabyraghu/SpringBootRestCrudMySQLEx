@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.app.raghu</groupId>
-	<artifactId>SpringBootRestProducerFirstEx</artifactId>
+	<artifactId>SpringBootRestCrudMySQLEx</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
 	<name>SpringBootRestCrudMySQLEx</name>
